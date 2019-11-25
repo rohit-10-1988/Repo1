@@ -1,0 +1,49 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "title": "Learn Axios",
+      "description": "This is learning for Axios",
+      "completed": false,
+      "date": "2019-09-19"
+    },
+    {
+      "title": "Learn Redux",
+      "description": "cfdfdvdvdvdvdv",
+      "completed": true,
+      "date": "2019-10-09T07:28:50.144Z",
+      "id": 3
+    },
+    {
+      "title": "Learn New",
+      "description": "ssssss",
+      "completed": true,
+      "date": "2019-10-13T06:03:11.166Z",
+      "id": 4
+    },
+    {
+      "title": "Learn New",
+      "description": "cdhcgdjchkdvcn",
+      "completed": true,
+      "date": "2019-11-21T05:37:28.757Z",
+      "id": 5
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
